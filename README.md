@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # sfc9982
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sfc9982&theme=solarized_dark" width="70%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sfc9982&theme=github_dark" width="70%">
 
 Hi, there!
 
@@ -44,8 +44,8 @@ Hi, there!
 
 ## 🌱 I’m currently learning ...
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=solarized_dark&timezone=Asia/ShangHai" width="35%">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfc9982&theme=solarized_dark" width="35%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=github_dark&timezone=Asia/ShangHai" width="35%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfc9982&theme=github_dark" width="35%">
 
   - Russian
   - [Python](https://github.com/topics/python)
