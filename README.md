@@ -30,6 +30,12 @@ Hi, there!
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff)
 
+## 🔭 I’m currently working on ...
+
+  - OpenCV
+  - CTF
+  - Uni Courses
+
 ## 🌱 I’m currently learning ...
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=github" width="35%">
@@ -50,6 +56,7 @@ Hi, there!
 
 ## 📫 Get in touch:
 
+  [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)
   [![](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)
 
 ## More information
