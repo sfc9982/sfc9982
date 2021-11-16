@@ -38,7 +38,7 @@ Hi, there!
   - Russian
   - [Python](https://github.com/topics/python)
   - [Machine Learning](https://github.com/topics/machinelearning)
-  - [Ccryptography](https://github.com/topics/cryptography)
+  - [Cryptography](https://github.com/topics/cryptography)
   - [Capture The Flag](https://github.com/topics/ctf)
   - Everything I Love
 
