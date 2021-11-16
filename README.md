@@ -44,7 +44,7 @@ Hi, there!
 
 ## 🌱 I’m currently learning ...
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=solarized_dark&utcOffset=+8" width="35%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=solarized_dark&timezone=Asia/ShangHai" width="35%">
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfc9982&theme=solarized_dark" width="35%">
 
   - Russian
