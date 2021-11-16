@@ -50,4 +50,3 @@ Hi, there!
 ## More information
 
   - [My Homepage](https://sfc9982.github.io/sfc9982-blog)
-  - 
