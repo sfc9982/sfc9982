@@ -22,10 +22,16 @@ Hi, there!
 - 💻 Windows user
 - 📱 Android user
 - 👨‍🎓 University Student
-- ⚡️ HAM
+- ⚡️ Programmer
 - 💞 ACGN lover
 
+## 💻 OS:
+
+![Windows 10 Pro](https://img.shields.io/badge/Windows%2010%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+
 ## Working Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff)
@@ -56,9 +62,18 @@ Hi, there!
 
 ## 📫 Get in touch:
 
-  [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)
-  [![](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)
+  [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)　
+  [![Twitter](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)　
+  [![Blog](https://img.shields.io/badge/sfc9982-blog-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://sfc9982.github.io/sfc9982-blog)　
+  [![Telegram](https://img.shields.io/badge/-@sfc9982-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/@sfc9982)　
+  [![PGP](https://img.shields.io/badge/PGP-Currently%20Unavailable-orange?style=flat-square)]()
 
 ## More information
 
-  - [My Homepage](https://sfc9982.github.io/sfc9982-blog)
+  - [My homepage](https://atri.tk)
+  - [My about page](https://i.atri.tk/)
+
+
+## More information
+
+  - [My Blog](https://sfc9982.github.io/sfc9982-blog)
