@@ -25,6 +25,11 @@ Hi, there!
 - ⚡️ HAM
 - 💞 ACGN lover
 
+## Working Languages
+
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff)
+
 ## 🌱 I’m currently learning ...
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=github" width="35%">
