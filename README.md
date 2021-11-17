@@ -125,10 +125,4 @@ Hi, there!
 
 ## More information
 
-  - [My homepage](https://atri.tk)
-  - [My about page](https://i.atri.tk/)
-
-
-## More information
-
   - [My Blog](https://sfc9982.github.io/sfc9982-blog)
