@@ -102,7 +102,7 @@ Hi, there!
 
 ## 🌱 I’m currently learning ...
 
-  - :ru: / :serbia: Russian/Srpska
+  - :ru: / :serbia:　Russian / Srpska
   - [Python](https://github.com/topics/python)
   - [Machine Learning](https://github.com/topics/machinelearning)
   - [Cryptography](https://github.com/topics/cryptography)
