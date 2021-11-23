@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sfc9982&theme=github_dark&timezone=Asia/ShangHai" width="35%">
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sfc9982&theme=github_dark" width="35%"> -->
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=sfc9982&count_private=true&show_icons=true&theme=tokyonight">](https://github.com/sfc9982)
 
 Hi, there!
 
