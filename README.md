@@ -125,4 +125,4 @@ Hi, there!
 
 ## More information
 
-  - [My Blog](https://sfc9982.github.io/sfc9982-blog)
+  - My Blog: [googles.plus](https://googles.plus)
