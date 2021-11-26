@@ -121,7 +121,7 @@ Hi, there!
 
   [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)　
   [![Twitter](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)　
-  [![Blog](https://img.shields.io/badge/sfc9982-blog-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://sfc9982.github.io/sfc9982-blog)　
+  [![Blog](https://img.shields.io/badge/sfc9982-blog-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://googles.plus)　
   [![Telegram](https://img.shields.io/badge/-@sfc9982-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/@sfc9982)　
   [![PGP](https://img.shields.io/badge/PGP-Currently%20Unavailable-orange?style=flat-square)]()
 
