@@ -28,7 +28,7 @@ Hi, there!
 
 - 💻 Windows user
 - 📱 Android user
-- 👨‍🎓 University Student
+- 👨‍🎓 Undergraduate University Student
 - ⚡️ Programmer
 - 💞 ACGN lover
 
