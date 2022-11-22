@@ -129,7 +129,7 @@ Hi, there!
   - :ru: / :serbia:　Русский/Српски
   - [Python](https://github.com/topics/python)
 <!--   - [Big Data](https://github.com/topics/bigdata) -->
-<!--   - [Machine Learning](https://github.com/topics/machinelearning) -->
+  - [Machine Learning](https://github.com/topics/machinelearning)
 <!--   - [Cryptography](https://github.com/topics/cryptography) -->
   - Computer Network
   - [Capture The Flag](https://github.com/topics/ctf)
@@ -137,9 +137,9 @@ Hi, there!
 
 ## 🤔 I’m looking for help with ...
 
-  - Linear Algebra and Advanced Math
-  - Programming
-  - Study
+  - NLP
+  - Cybersecurity
+  - DevOps
 
 ## 📫 Get in touch:
 
