@@ -120,9 +120,9 @@ Hi, there!
 
 ## 🔭 I’m currently working on ...
 
-  - OpenCV
+  - DevOps
   - CTF
-  - Uni Courses
+  - University Courses
 
 ## 🌱 I’m currently learning ...
 
@@ -130,7 +130,7 @@ Hi, there!
   - [Python](https://github.com/topics/python)
 <!--   - [Big Data](https://github.com/topics/bigdata) -->
   - [Machine Learning](https://github.com/topics/machinelearning)
-<!--   - [Cryptography](https://github.com/topics/cryptography) -->
+  - [Cryptography](https://github.com/topics/cryptography)
   - Computer Network
   - [Capture The Flag](https://github.com/topics/ctf)
   - Everything I Love
@@ -143,12 +143,16 @@ Hi, there!
 
 ## 📫 Get in touch:
 
-  [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)　
-  [![Twitter](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)　
+<!--   [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)　 -->
+<!--   [![Twitter](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)　 -->
   [![Blog](https://img.shields.io/badge/sfc9982-blog-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://googles.plus)　
-  [![Telegram](https://img.shields.io/badge/-@sfc9982-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/@sfc9982)　
+<!--   [![Telegram](https://img.shields.io/badge/-@sfc9982-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/@sfc9982)　 -->
   [![PGP](https://img.shields.io/badge/PGP-DEC99CC0DE0778DD-orange?style=flat-square)]()
 
 ## More information
 
   - My Blog: [googles.plus](https://googles.plus)
+
+## Thanks
+
+<a href="https://www.jetbrains.com"><img src="https://account.jetbrains.com/static/images/jetbrains-logo-inv.svg" height="200" alt="JetBrains"/></a>
