@@ -155,4 +155,4 @@ Hi, there!
 
 ## Thanks
 
-<a href="https://www.jetbrains.com"><img src="https://account.jetbrains.com/static/images/jetbrains-logo-inv.svg" height="200" alt="JetBrains"/></a>
+<a href="https://www.cisco.com"><img src="/cisco.svg" width="200" alt="Cisco"/></a><a href="https://www.jetbrains.com"><img src="https://account.jetbrains.com/static/images/jetbrains-logo-inv.svg" height="200" alt="JetBrains"/></a>
