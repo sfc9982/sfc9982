@@ -125,27 +125,25 @@ Hi, there!
 
 ## 🌱 I’m currently learning ...
 
-  - :ru: / :serbia:　Русский/Српски
+  -  🇺🇸　English
   - [Python](https://github.com/topics/python)
-<!--   - [Big Data](https://github.com/topics/bigdata) -->
-  - [Machine Learning](https://github.com/topics/machinelearning)
+  - [Big Data](https://github.com/topics/bigdata)
+  - [Machine Learning (NLP)](https://github.com/topics/machinelearning)
   - [Cryptography](https://github.com/topics/cryptography)
   - Computer Network
   - [Capture The Flag](https://github.com/topics/ctf)
   - Everything I Love
+  - Networking and SDN
 
 ## 🤔 I’m looking for help with ...
 
   - NLP
   - Cybersecurity
-  - DevOps
+  - English
 
 ## 📫 Get in touch:
 
-<!--   [![BiliBili](https://img.shields.io/badge/-sfc9982-fe7398?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/249193111)　 -->
-<!--   [![Twitter](https://img.shields.io/badge/-@CHN_JacksonChen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/CHN_JacksonChen)　 -->
   [![Blog](https://img.shields.io/badge/sfc9982-blog-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://googles.plus)　
-<!--   [![Telegram](https://img.shields.io/badge/-@sfc9982-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/@sfc9982)　 -->
   [![PGP](https://img.shields.io/badge/PGP-DEC99CC0DE0778DD-orange?style=flat-square)]()
 
 ## More information
