@@ -152,4 +152,7 @@ Hi, there!
 
 ## Thanks
 
-<a href="https://www.cisco.com"><img src="/cisco.svg" width="200" alt="Cisco"/></a><a href="https://www.jetbrains.com"><img src="https://account.jetbrains.com/static/images/jetbrains-logo-inv.svg" height="200" alt="JetBrains"/></a>
+<a href="https://www.cisco.com"><img src="/cisco.svg" height="152" alt="Cisco"/></a>
+<a href="https://www.rockwellautomation.com"><img src="https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/images/logos/2019_Logo_rgb_RA_Bug-LeftText_color.svg" height="152" alt="Rockwell Automation"/></a>
+<a href="https://www.microsoft.com/"><img src="https://static.flipgrid.com/fg-svgs/microsoft-logo.svg" height="152" alt="Microsoft"/></a>
+<a href="https://www.jetbrains.com"><img src="https://account.jetbrains.com/static/images/jetbrains-logo-inv.svg" height="152" alt="JetBrains"/></a>
